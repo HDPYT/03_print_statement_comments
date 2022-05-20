@@ -1,7 +1,5 @@
 # 03_print_statement_comments
 
-<a href='https://bit.ly/3ydzsD1'> Video Link </a> 
-
 Python is interpreter based. <br>
 
 Interpreter: It executes the code line by line.<br>
